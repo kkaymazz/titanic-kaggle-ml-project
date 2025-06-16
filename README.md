@@ -10,7 +10,7 @@ Predict whether a passenger survived the Titanic shipwreck using structured data
 - Label and one-hot encoding
 - Logistic Regression, Random Forest, and Gradient Boosting models
 - Hyperparameter tuning via GridSearchCV
-- Final public score: **0.74880**
+- Final public score: **0.75119**
 
 ### 📊 Libraries Used:
 - pandas, numpy, scikit-learn, xgboost, seaborn, matplotlib
