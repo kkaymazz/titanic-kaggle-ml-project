@@ -14,7 +14,3 @@ Predict whether a passenger survived the Titanic shipwreck using structured data
 
 ### 📊 Libraries Used:
 - pandas, numpy, scikit-learn, xgboost, seaborn, matplotlib
-
-### 📁 Files:
-- `notebook.ipynb`: End-to-end notebook
-- `submission.csv`: Final Kaggle submission
